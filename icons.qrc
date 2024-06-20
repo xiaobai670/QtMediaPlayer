@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/media">
+        <file>icons/fill_media_airplay.svg</file>
+        <file>icons/fill_media_musical.svg</file>
+        <file>icons/fill_media_next.svg</file>
+        <file>icons/fill_media_pause.svg</file>
+        <file>icons/fill_media_play.svg</file>
+        <file>icons/fill_media_previous.svg</file>
+        <file>icons/fill_media_vol_default.svg</file>
+        <file>icons/fill_media_vol_llower.svg</file>
+        <file>icons/fill_media_vol_lower.svg</file>
+        <file>icons/fill_media_vol_mute.svg</file>
+        <file>icons/fill_media_vol_raise.svg</file>
+        <file>icons/fill_media_list_add.svg</file>
+        <file>icons/fill_media_list_hide.svg</file>
+        <file>icons/fill_media_list_show.svg</file>
+    </qresource>
+</RCC>
